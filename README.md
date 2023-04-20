@@ -8,6 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/willian_o_c)
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianDev99&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDev99)](https://github.com/WillianDev99/github-readme-stats)
 
 ## Tecnologias que eu usu no meu dia a dia:
 
