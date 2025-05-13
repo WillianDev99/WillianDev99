@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WillianDev99&show_icons=true&theme=tokyonight" alt="Willian Oliveira github stats" /> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillianDev99&bg_color=0d1117&color=6A5ACD&line=b13583&point=b13583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WillianDev99&bg_color=0d1117&color=6A5ACD&line=b13583&point=b13583&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
