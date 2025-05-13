@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Willian+Oliveira;I'm+23+years+old;I'm+from+Brazil;I+Graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Willian+Oliveira;I'm+25+years+old;I'm+from+Brazil;I+Graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WillianDev99&show_icons=true&theme=tokyonight" alt="Willian Oliveira github stats" /> 
