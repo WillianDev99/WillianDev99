@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianDev99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Willian stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDev99&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillianDev99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Willian stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WillianDev99&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 <br/>
