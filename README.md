@@ -15,10 +15,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillianDev99&bg_color=0d1117&color=6A5ACD&line=b13583&point=b13583&area=true&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WillianDev99&theme=dracula&row=1&column=3&margin-w=15&no-bg=true&no-frame=true" alt="trophies" />
-</div>
-
 <div align="center"> 
   <a href="https://www.linkedin.com/in/willian-de-oliveira-cardoso-158772230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UC6TlcMvN6_VL7gJx6iDJuJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
